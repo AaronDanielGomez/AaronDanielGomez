@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, my name is **Aaron Gomez**.
+
+
+
+## Skills
+
+* **HTML**
+
+* **CSS**
+
+* **Javascript**
 
 <!--
 **AaronDanielGomez/AaronDanielGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
